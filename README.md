@@ -2,7 +2,7 @@
 
 ## Machine Learning Lab
 
-## Name:Vinesh
+## Name:D.Vinesh
 ## ID:B200885
 ## Class:C3
 
